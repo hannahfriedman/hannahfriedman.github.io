@@ -1,6 +1,6 @@
 # Publications
 
-* The Two Lives of the Grassmannian (with Bernd Sturmfels and Karel D), submitted.
-* Likelihood Geometry of Determinantal Point Processes (with Bernd Sturmfels and Maksym Zubkov), to appear in Algebraic Statistics.
-* Long Increasing Subsequences (advised by Michael Orrison) Undergraduate Thesis, 2023
-* An Interpretable Joint Nonnegative Matrix Factorization-Based Point Cloud Distance Measure (with Amani R. Maina-Kilaas, Julianna Schalkwyk, Hina Ahmed, and Jamie Haddock), Conference on Information Sciences and Systems 2023
+* [The Two Lives of the Grassmannian](https://arxiv.org/pdf/2401.03684.pdf){:target="_blank"} (with Bernd Sturmfels and Karel Devriendt), submitted to *Acta Universitatis Sapientiae, Mathematica*.
+* [Likelihood Geometry of Determinantal Point Processes](https://arxiv.org/pdf/2307.13486.pdf){:target="_blank"} (with Bernd Sturmfels and Maksym Zubkov), to appear in *Algebraic Statistics*.
+* [Long Increasing Subsequences](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1274&context=hmc_theses){:target="_blank"} (advised by Michael Orrison) Undergraduate Thesis, 2023.
+* [An Interpretable Joint Nonnegative Matrix Factorization-Based Point Cloud Distance Measure](https://arxiv.org/pdf/2207.05112.pdf){:target="_blank"} (with Amani R. Maina-Kilaas, Julianna Schalkwyk, Hina Ahmed, and Jamie Haddock), *Conference on Information Sciences and Systems 2023*.
