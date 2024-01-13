@@ -6,4 +6,4 @@ I am a first year PhD student in the Mathematics department at UC Berkeley. I re
 
 I am grateful for the support of the UC Berkeley Chancellor’s Fellowship. 
 
-My CV can be found [here](fall23.pdf){:target="_blank"}. My email address is firstname lastname AT berkeley dot edu.
+My CV can be found [here](resumes/current.pdf){:target="_blank"}. My email address is firstname lastname AT berkeley dot edu.
