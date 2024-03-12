@@ -9,8 +9,6 @@ Monday, Wednesday, & Friday at 12 pm in Dwinelle 179
 ## Office Hours
 My office hours: Monday & Wednesday 1 pm - 2 pm, Evans 836
 
-Office hours schedule:
-
 ## Assessments
 * Quiz on Friday, February 2nd in section
 * Quiz on Friday, February 16th in section
