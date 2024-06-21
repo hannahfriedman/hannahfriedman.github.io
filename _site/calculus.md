@@ -16,5 +16,5 @@ My office hours: Monday & Wednesday 1 pm - 2 pm, Evans 836
 * Quiz on Friday, March 8th in section
 * Quiz on Friday, March 22nd in section
 * Quiz on Friday, April 19th in section
-* Midterm on Wednesday, April 23rd in section
+* Midterm on Wednesday, April 10th in section
 * Final on Tuesday, May 7th 7 - 10 pm, location TBA

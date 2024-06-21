@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  13 JAN 2024 11:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  11 APR 2024 17:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -345,27 +345,27 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2] (./current.aux)
+al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] (./current.aux)
 Package rerunfilecheck Info: File `current.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9599 strings out of 476025
- 150624 string characters out of 5790017
+ 9598 strings out of 476025
+ 150618 string characters out of 5790017
  1867388 words of memory out of 5000000
  29935 multiletter control sequences out of 15000+600000
  529501 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,76p,351b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,5n,76p,347b,432s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/l
 ocal/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texli
 ve/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/te
 xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on current.pdf (2 pages, 72098 bytes).
+Output written on current.pdf (1 page, 71143 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
- 3 named destinations out of 1000 (max. 500000)
+ 45 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
