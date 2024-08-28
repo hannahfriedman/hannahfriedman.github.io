@@ -11,3 +11,6 @@ My research interests are in algebraic statistics.
 I am grateful for the support of the UC Berkeley Chancellor’s Fellowship. 
 
 My CV can be found [here](resumes/current.pdf){:target="_blank"}. My email address is firstname lastname AT berkeley dot edu.
+
+Office: Evans 1060
+Office Hours: Wednesday 12-1, Thursday 2-3
