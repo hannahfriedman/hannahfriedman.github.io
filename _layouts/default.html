@@ -3,15 +3,15 @@
   <head>
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
-	    
+
+    
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -27,20 +27,19 @@
       <a href="./activities#content" class="btn">Activities</a>      
       <a href="./teaching#content" class="btn">Teaching</a>
 
-</header>
-<main id="content" class="main-content" role="main">
-  {{ content }}
-  <footer class="site-footer">
-<!--    {% if site.github.is_project_page %} 
-    <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-    {% endif %}
--->    
-    <span class="site-footer-credits">
-      <h1 style="font-size:1.5em; "> Contact </h1>
-      Office: Evans 1060 <br />
-      Email: firstname lastname AT berkeley dot edu 
-    </span>
-  </footer>
+    </header>
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+      <footer class="site-footer">
+	<span class="site-footer-credits">
+	  <h1 style="font-size:1.5em; "> Contact </h1>
+	  Office: Evans 1060 <br />
+	  Email: firstname lastname AT berkeley dot edu <br />
+	  <a href="http://arxiv.org/a/friedman_h_1" target="_blank">arXiv</a>
+	  &emsp;
+	  <a href="https://scholar.google.com/citations?hl=en&user=SiyFpU0AAAAJ&view_op=list_works&authuser=1&gmla=AC6lMd-StDwyFDxM6YnZ9DllJWiTSmwrbLa1Z4Rei5N4mESCy00Dm3XYkYWHHGvDsmDSNZGnPli9FDva8-96nkP0" target="_blank">Google Scholar</a>
+	</span>
+      </footer>
 </main>
 </body>
 </html>
