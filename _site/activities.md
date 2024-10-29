@@ -1,6 +1,22 @@
 # Activities
 
-## Summer 2024
+
+<h2 style="margin-bottom: 0;">Summer 2025</h2>
+<p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
+
+
+<h2 style="margin-bottom: 0;">Spring 2025</h2>
+<p style="margin-top: 0;"> UC Berkeley</p>
+* [Joint Math Meetings 2025](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_intro){:target="_blank"}\\
+January 8-11, Seattle
+
+<h2 style="margin-bottom: 0;">Fall 2024</h2>
+<p style="margin-top: 0;">UC Berkeley</p>
+* Qualifying Exam ([syllabus](syllabus.pdf){:target="_blank"})\\
+December 2, 2024, UC Berkeley
+
+<h2 style="margin-bottom: 0;">Summer 2024</h2>
+<p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
 
 * [MEGA 2024](https://www.mis.mpg.de/events/series/mega-2024){:target="_blank"}\\
 July 29 - August 2, Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)
@@ -13,4 +29,5 @@ July 8-18, St John's College, University of Oxford
 
 * [Combinatorial Algebraic Geometry from Physcis](https://www.mis.mpg.de/events/series/combinatorial-algebraic-geometry-from-physics){:target="_blank"}\\
 May 13-17, Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)
+
 

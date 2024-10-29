@@ -321,3 +321,5 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+.main-content { max-width: 75rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; }
