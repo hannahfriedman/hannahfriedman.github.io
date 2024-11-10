@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+.header-color {
+  color: #159957; // This is the default Cayman header color
+}
+
+
+
+
 
 .main-content {
   max-width: 75rem;

@@ -23,7 +23,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/assets/css/style.css?v=d845a3a2af244bec11d99c651f7b511c7d14195b">
+    <link rel="stylesheet" href="/assets/css/style.css?v=f988185274fe086bb2128a40465034256a3b382c">
 
     
   </head>
@@ -74,6 +74,34 @@
 	  <a href="https://scholar.google.com/citations?hl=en&user=SiyFpU0AAAAJ&view_op=list_works&authuser=1&gmla=AC6lMd-StDwyFDxM6YnZ9DllJWiTSmwrbLa1Z4Rei5N4mESCy00Dm3XYkYWHHGvDsmDSNZGnPli9FDva8-96nkP0" target="_blank">Google Scholar</a>
 	</span>
       </footer>
-</main>
+    </main>
+
+<script>
+  function scrollToContent() {
+    var contentElement = document.getElementById('content');
+    if (contentElement) {
+      var offset = contentElement.getBoundingClientRect().top + window.pageYOffset - 20;
+      window.scrollTo({top: offset, behavior: 'smooth'});
+    }
+  }
+  document.addEventListener('DOMContentLoaded', function() {
+    if (performance.navigation.type === performance.navigation.TYPE_NAVIGATE) {
+      scrollToContent();
+    }
+  });
+  // Handle clicks on internal links
+  document.addEventListener('click', function(e) {
+    if (e.target.tagName === 'A' && e.target.hostname === window.location.hostname) {
+      if (!e.target.hasAttribute('data-no-scroll')) {
+        localStorage.setItem('scrollToContent', 'true');
+      }
+    }
+  });
+  // Check if we should scroll on page load
+  if (localStorage.getItem('scrollToContent') === 'true') {
+    scrollToContent();
+    localStorage.removeItem('scrollToContent');
+  }
+</script>
 </body>
 </html>

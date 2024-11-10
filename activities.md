@@ -12,8 +12,10 @@ January 8-11, Seattle
 
 <h2 style="margin-bottom: 0;">Fall 2024</h2>
 <p style="margin-top: 0;">UC Berkeley</p>
+* Organizing one-time [Nonlinear Algebra Seminar](nas.md)\\
+December 12, 2 - 5 pm (tentative), Evans 740, UC Berkeley
 * Qualifying Exam ([syllabus](syllabus.pdf){:target="_blank"})\\
-December 2, 2024, UC Berkeley
+December 2, UC Berkeley
 
 <h2 style="margin-bottom: 0;">Summer 2024</h2>
 <p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
