@@ -22,14 +22,14 @@ Kristen Dawson (San Francisco State Univeristy)\\
 
 
 <span class="header-color">Speaker:</span>
-Svala Sverissdóttir (UC Berkeley)\\
+[Svala Sverissdóttir](https://math.berkeley.edu/~svala/){:target="_blank"} (UC Berkeley)\\
 <span class="header-color">Title:</span>
 \\
 <span class="header-color">Abstract:</span>
 
 
 <span class="header-color">Speaker:</span>
-Ruriko Yoshida (Naval Postgradaute School)\\
+[Ruriko Yoshida](http://www.polytopes.net){:target="_blank"} (Naval Postgradaute School)\\
 <span class="header-color">Title:</span>
 Tropical Fermat-Weber Polytropes\\
 <span class="header-color">Abstract:</span>
@@ -37,7 +37,7 @@ In this talk we discuss the geometry of tropical Fermat-Weber points in terms of
 
 
 <span class="header-color">Speaker:</span>
-Maksym Zubkov (University of British Columbia)\\
+[Maksym Zubkov](https://maksymzubkov.info){:target="_blank"} (University of British Columbia)\\
 <span class="header-color">Title:</span>
 The Geometry of Rational Neural Networks \\
 <span class="header-color">Abstract:</span>
