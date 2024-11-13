@@ -24,8 +24,17 @@ Kristen Dawson (San Francisco State Univeristy)\\
 <span class="header-color">Speaker:</span>
 [Svala Sverissdóttir](https://math.berkeley.edu/~svala/){:target="_blank"} (UC Berkeley)\\
 <span class="header-color">Title:</span>
-\\
+Gram Matrices for Isotropic Vectors\\
 <span class="header-color">Abstract:</span>
+We investigate determinantal varieties
+for symmetric matrices that have
+zero blocks along the main diagonal.
+In theoretical physics,  these arise as Gram matrices for
+kinematic variables in quantum field theories.
+We study the ideals of relations among
+functions in the matrix entries
+that serve as building blocks for conformal correlators.
+
 
 
 <span class="header-color">Speaker:</span>
