@@ -15,9 +15,9 @@ Evans 740, UC Berkeley
 <span class="header-color">Speaker:</span>
 Kristen Dawson (San Francisco State Univeristy)\\
 <span class="header-color">Title:</span>
-\\
+Uniqueness of size-2 positive semidefinite matrix factorizations\\
 <span class="header-color">Abstract:</span>
-
+A positive semidefinite (psd) factorization of a nonnegative matrix M expresses the entries of M as the trace inner product between two psd matrices. These factorizations correspond to spectrahedral lifts of a polytope associated with M. We would like to know when these factorizations are unique. In this talk, we will classify when a size-2 psd factorization of a positive matrix of rank 3 and psd rank 2 is unique. The characterization is obtained using tools from rigidity theory. In the first step, we define s-infinitesimally rigid psd factorizations and characterize 1- and 2-infinitesimally rigid size-2 psd factorizations. In the second step, we connect 1- and 2-infinitesimal rigidity of size-2 psd factorizations to uniqueness via global rigidity. We also prove necessary conditions on a positive matrix of rank 3 and psd rank 2 to be on the topological boundary of all nonnegative matrices with the same rank conditions.
 
 
 
