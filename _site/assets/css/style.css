@@ -326,6 +326,4 @@ a:hover { text-decoration: underline; }
 
 .page-header { padding: 1.5rem 1rem; }
 
-.btn { margin-top: -50px; /* Adjust this value to control button spacing */ }
-
 .main-content { max-width: 75rem; padding: 2rem 6rem; margin: 0 auto; font-size: 1.1rem; }
