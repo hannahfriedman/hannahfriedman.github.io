@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  15 NOV 2024 14:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  17 NOV 2024 09:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -326,7 +326,7 @@ Package hyperref Info: Link coloring OFF on input line 24.
 \makeMPintoPDFobject=\count281
 \everyMPtoPDFconversion=\toks21
 )
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 28
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 29
 .
  (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -352,7 +352,7 @@ Package rerunfilecheck Info: File `current.out' has not changed.
 Here is how much of TeX's memory you used:
  9599 strings out of 476025
  150624 string characters out of 5790017
- 1866388 words of memory out of 5000000
+ 1865388 words of memory out of 5000000
  29935 multiletter control sequences out of 15000+600000
  529501 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -363,7 +363,7 @@ Here is how much of TeX's memory you used:
 cal/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
 e/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2023/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on current.pdf (2 pages, 78257 bytes).
+Output written on current.pdf (2 pages, 77804 bytes).
 PDF statistics:
  49 PDF objects out of 1000 (max. 8388607)
  32 compressed objects within 1 object stream
