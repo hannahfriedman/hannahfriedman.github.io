@@ -4,13 +4,27 @@ layout: default
 
 
 # Nonlinear Algebra Seminar
-December 12, 2 - 5 pm (tentative)\\
+December 12, 1:40 - 5 pm\\
 Evans 740, UC Berkeley
 
+## Schedule
 
-## Speakers and Abstracts
+| 1:40 - 2:10 | Ruriko Yoshida |
+| 2:10 - 2:40 | Svala Sverrisdóttir  |
+| 2:40 - 2:50 | Break |
+| 2:50 - 3:20 | Maksym Zubkov |
+| 3:20 - 3:50 | Kristen Dawson  |
+| 3:50 - 4:00 | Break |
+| 4:00 - 5:00 | Dmitriy Morozov |
+
+## Titles and Abstracts
 
 
+<span class="header-color">Speaker:</span>
+[Dmitrity Morozov](https://www.mrzv.org){:target="_blank"} (Lawrence Berkeley National Laboratory) \\
+<span class="header-color">Title:</span>
+Recent Advances in Topological Data Analysis\\
+<span class="header-color">Abstract:</span>
 
 <span class="header-color">Speaker:</span>
 Kristen Dawson (San Francisco State Univeristy)\\
@@ -52,5 +66,3 @@ The Geometry of Rational Neural Networks \\
 <span class="header-color">Abstract:</span>
 Rational neural networks are feedforward neural networks with a rational activation function. These networks found their applications in approximating the solutions of PDE, as they are able to learn the poles of meromorphic functions. In this talk, we are going to consider the simplest rational activation function, sigma = 1 / x, and study the geometry of family such architectures. We will show that the closure of all possible shallow (one hidden layer) networks is an algebraic variety, which called a neurovariety.
 
-## Schedule
-TBD

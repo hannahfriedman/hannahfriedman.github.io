@@ -4,6 +4,8 @@
 
 # Past Talks
 
+* Tensors and Phylogenetics\\
+  &nbsp; &nbsp; UC Berkeley, November 19, 2024
 * Likelihood Geometry of the Squared Grassmannian\\
   &nbsp; &nbsp; [UC Berkeley Combinatorics Seminar](https://math.berkeley.edu/~jlentfer/combinatorics_seminar.html){:target="_blank"}, October 23, 2024\\
   &nbsp; &nbsp; [Workshop for Women in Algebraic Statistics](https://sites.google.com/view/women-in-algstat-oxford/){:target="_blank"} at St John's College, University of Oxford, July 15, 2024
