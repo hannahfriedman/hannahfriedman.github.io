@@ -13,7 +13,7 @@ January 8-11, Seattle
 <h2 style="margin-bottom: 0;">Fall 2024</h2>
 <p style="margin-top: 0;">UC Berkeley</p>
 * Organizing one-time [Nonlinear Algebra Seminar](nas.md)\\
-December 12, 1:40 - 5 pm, Evans 740, UC Berkeley
+December 12, 1:10 - 5 pm, Evans 740, UC Berkeley
 * Qualifying Exam ([syllabus](syllabus.pdf){:target="_blank"})\\
 December 2, UC Berkeley
 
