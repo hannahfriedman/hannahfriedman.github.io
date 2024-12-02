@@ -34,7 +34,7 @@ In this talk we discuss the geometry of tropical Fermat-Weber points in terms of
 <span class="header-color">Speaker:</span>
 [Marco David](https://physics.berkeley.edu/people/marco-david){:target="_blank"} (UC Berkeley)\\
 <span class="header-color">Title:</span>
-Symplectic Learning for Hamiltonian Neural Networks
+Symplectic Learning for Hamiltonian Neural Networks\\
 <span class="header-color">Abstract:</span>
 Machine learning methods are widely used to model and predict physical systems from observation data. Yet, they are often used as poorly understood “black boxes,” disregarding existing mathematical structure and invariants of the problem. The proposal of Hamiltonian Neural Networks (HNNs) from 2019 takes a first step towards a “gray box” approach, using physical insight to improve performance. Here, we explore a significantly improved training method for HNNs, exploiting the symplectic structure of Hamiltonian systems. This frees the loss from an artificial lower bound. Moreover, we are able to prove detailed analytic bounds on the training errors of HNNs which, in turn, renders them explainable. Finally, we present a post-training correction to obtain the true Hamiltonian only from discretized observation data, up to an arbitrary order.
 
