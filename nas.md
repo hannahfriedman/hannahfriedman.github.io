@@ -4,7 +4,7 @@ layout: default
 
 
 # Nonlinear Algebra Seminar
-December 12, 1:40 - 5 pm\\
+December 12, 1:10 - 5 pm\\
 Evans 740, UC Berkeley
 
 ## Schedule
