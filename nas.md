@@ -9,7 +9,8 @@ Evans 740, UC Berkeley
 
 ## Schedule
 
-| 1:40 - 2:10 | Ruriko Yoshida |
+| 1:10 - 1:40 | Ruriko Yoshida |
+| 1:40 - 2:10 | Marco David |
 | 2:10 - 2:40 | Svala Sverrisdóttir  |
 | 2:40 - 2:50 | Break |
 | 2:50 - 3:20 | Maksym Zubkov |
@@ -29,6 +30,13 @@ Tropical Fermat-Weber Polytropes\\
 <span class="header-color">Abstract:</span>
 In this talk we discuss the geometry of tropical Fermat-Weber points in terms of the symmetric tropical metric over the tropical projective torus.  It is well-known that a tropical Fermat-Weber point of a given sample is not unique and we show that the set of all possible Fermat-Weber points forms a polytrope. To prove this, we show that the tropical Fermat-Weber polytrope is a bounded cell of a tropical hyperplane arrangement given by both max- and min-tropical hyperplanes with apices given by the sample. We also define tropical Fermat-Weber gradients and provide a gradient descent algorithm that converges to the Fermat-Weber polytrope.  This is joint work with J. Sabol, D. Barnhill and K. Miura. 
 
+
+<span class="header-color">Speaker:</span>
+[Marco David](https://physics.berkeley.edu/people/marco-david){:target="_blank"} (UC Berkeley)\\
+<span class="header-color">Title:</span>
+Symplectic Learning for Hamiltonian Neural Networks
+<span class="header-color">Abstract:</span>
+Machine learning methods are widely used to model and predict physical systems from observation data. Yet, they are often used as poorly understood “black boxes,” disregarding existing mathematical structure and invariants of the problem. The proposal of Hamiltonian Neural Networks (HNNs) from 2019 takes a first step towards a “gray box” approach, using physical insight to improve performance. Here, we explore a significantly improved training method for HNNs, exploiting the symplectic structure of Hamiltonian systems. This frees the loss from an artificial lower bound. Moreover, we are able to prove detailed analytic bounds on the training errors of HNNs which, in turn, renders them explainable. Finally, we present a post-training correction to obtain the true Hamiltonian only from discretized observation data, up to an arbitrary order.
 
 <span class="header-color">Speaker:</span>
 [Svala Sverissdóttir](https://math.berkeley.edu/~svala/){:target="_blank"} (UC Berkeley)\\
