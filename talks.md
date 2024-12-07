@@ -4,6 +4,8 @@
 
 # Past Talks
 
+* What is Algebraic Statistics?\\
+  &nbsp; &nbsp; [Bay Area Discrete Math Day](https://sites.google.com/berkeley.edu/bad-math-day-fall-2024/){:target="_blank"}, UC Berkeley, December 7, 2024
 * Tensors and Phylogenetics\\
   &nbsp; &nbsp; UC Berkeley, November 19, 2024
 * Likelihood Geometry of the Squared Grassmannian\\
