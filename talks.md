@@ -1,7 +1,7 @@
 # Upcoming Talks
 * Likelihood Geometry of the Squared Grassmannian\\
- &nbsp; &nbsp; [AMS Special Session on Algebraic Statistics in Our Changing World](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss14.html#title){:target="_blank"} at JMM, January 8, 2025
-  &nbsp; &nbsp; [University of Washington Combinatorics Semianr](https://sites.math.washington.edu/~combinat/#seminar-info){:target="_blank"}, January 15, 2025
+ &nbsp; &nbsp; [AMS Special Session on Algebraic Statistics in Our Changing World](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss14.html#title){:target="_blank"} at JMM, January 8, 2025\\
+  &nbsp; &nbsp; [University of Washington Combinatorics Seminar](https://sites.math.washington.edu/~combinat/#seminar-info){:target="_blank"}, January 15, 2025
 
 
 
