@@ -76,4 +76,8 @@ A positive semidefinite (psd) factorization of a nonnegative matrix M expresses 
 <span class="header-color">Title:</span>
 Recent Advances in Topological Data Analysis\\
 <span class="header-color">Abstract:</span>
+As topological data analysis matured over the last two decades, its applications
+have evolved. And so have their needs. In this talk, we will review both
+classical and recent developments in TDA, together with example applications, as
+well as directions for future developments.
 
