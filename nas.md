@@ -61,7 +61,7 @@ that serve as building blocks for conformal correlators.
 <span class="header-color">Title:</span>
 The Geometry of Rational Neural Networks \\
 <span class="header-color">Abstract:</span>
-Rational neural networks are feedforward neural networks with a rational activation function. These networks found their applications in approximating the solutions of PDE, as they are able to learn the poles of meromorphic functions. In this talk, we are going to consider the simplest rational activation function, sigma = 1 / x, and study the geometry of family such architectures. We will show that the closure of all possible shallow (one hidden layer) networks is an algebraic variety, which called a neurovariety.
+Rational neural networks are feedforward neural networks with a rational activation function. These networks find their application in approximating the solutions of PDEs, as they are able to learn the poles of meromorphic functions. In this talk we will consider the simplest rational activation function, sigma = 1/x. We will study the expressivity of such architectures (what functions we can learn) through the geometry of their neurovariety, i.e., the algebraic variety given as the Zariski closure of all possible architectures.
 
 <span class="header-color">Speaker:</span>
 Kristen Dawson (San Francisco State Univeristy)\\
