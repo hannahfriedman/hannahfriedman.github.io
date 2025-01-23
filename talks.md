@@ -1,12 +1,8 @@
-# Upcoming Talks
-* The Squared Grassmannian\\
-  &nbsp; &nbsp; [University of Washington Combinatorics and Geometry Seminar](https://math.washington.edu/events/2025-01-15/squared-grassmannian){:target="_blank"}, January 15, 2025
-
-
 
 # Past Talks
-
-* Likelihood Geometry of the Squared Grassmannian\\
+* The Squared Grassmannian [[slides]] (slides/UW_Combinatorics_25.pdf){:target="_blank"}\\
+  &nbsp; &nbsp; [University of Washington Combinatorics and Geometry Seminar](https://math.washington.edu/events/2025-01-15/squared-grassmannian){:target="_blank"}, January 15, 2025
+* Likelihood Geometry of the Squared Grassmannian [[slides]](slides/jmm_squared_grass.pdf){:target="_blank"}\\
   &nbsp; &nbsp; [AMS Special Session on Algebraic Statistics in Our Changing World](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss14.html#title){:target="_blank"} at JMM, January 8, 2025\\
   &nbsp; &nbsp; [UC Berkeley Combinatorics Seminar](https://math.berkeley.edu/~jlentfer/combinatorics_seminar.html){:target="_blank"}, October 23, 2024\\
   &nbsp; &nbsp; [Workshop for Women in Algebraic Statistics](https://sites.google.com/view/women-in-algstat-oxford/){:target="_blank"} at St John's College, University of Oxford, July 15, 2024
