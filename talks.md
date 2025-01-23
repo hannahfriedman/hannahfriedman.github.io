@@ -1,6 +1,6 @@
 
 # Past Talks
-* The Squared Grassmannian [[slides]] (slides/UW_Combinatorics_25.pdf){:target="_blank"}\\
+* The Squared Grassmannian [[slides]](slides/UW_Combinatorics_25.pdf){:target="_blank"}\\
   &nbsp; &nbsp; [University of Washington Combinatorics and Geometry Seminar](https://math.washington.edu/events/2025-01-15/squared-grassmannian){:target="_blank"}, January 15, 2025
 * Likelihood Geometry of the Squared Grassmannian [[slides]](slides/jmm_squared_grass.pdf){:target="_blank"}\\
   &nbsp; &nbsp; [AMS Special Session on Algebraic Statistics in Our Changing World](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_program_ss14.html#title){:target="_blank"} at JMM, January 8, 2025\\
