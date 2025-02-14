@@ -1,6 +1,8 @@
 # Preprints
 
 * [Likelihood Geometry of the Squared Grassmannian](http://arxiv.org/pdf/2409.03730.pdf){:target="_blank"}
+
+# Accepted for Publication
 * [The Two Lives of the Grassmannian](https://arxiv.org/pdf/2401.03684.pdf){:target="_blank"} (with Karel Devriendt, Bernhard Reinke, and Bernd Sturmfels), to appear in *Acta Universitatis Sapientiae, Mathematica*.
 
 # Publications
