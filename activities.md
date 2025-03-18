@@ -5,7 +5,7 @@
 <p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
 * [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences-events/siam-conferences/ag25/){:target="_blank"}\\
 July 7 - 11, Madison
-* SLMath Summer School: New perspectives on discriminants and their applications(https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"}\\
+* [SLMath Summer School: New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"}\\
 June 23 - July 4
 * Visit to the Max Planck Institute for Mathematics in the Sciences\\
 June 9 - July 4, Leipzig
