@@ -4,14 +4,24 @@
 <h2 style="margin-bottom: 0;">Summer 2025</h2>
 <p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
 * [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences-events/siam-conferences/ag25/){:target="_blank"}\\
-July 7 - 11
+July 7 - 11, Madison
+* SLMath Summer School: New perspectives on discriminants and their applications(https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"}\\
+June 23 - July 4
+* Visit to the Max Planck Institute for Mathematics in the Sciences\\
+June 9 - July 4, Leipzig
+* [Computational Geometric Analysis Workshop](https://www.lehman.edu/faculty/rbettiol/wcga2025/){:target="_blank"}\\
+June 2 - 5, New York City
 
 <h2 style="margin-bottom: 0;">Spring 2025</h2>
 <p style="margin-top: 0;"> UC Berkeley</p>
 * [AWM Research Symposium 2025](https://awm-math.org/meetings/awm-research-symposium/){:target="_blank"}\\
-May 16 - 18 
+May 16 - 18, Madison
+* Visit to the University of Madison, Wisconsin\\
+May 15 - 18, Madison
 * [Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/home?authuser=0){:target="_blank"}\\
 March 24 - 28, Technical University of Munich
+* [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east){:target="_blank"}\\
+March 19-21, Leipzig
 * Visit to the Max Planck Institute for Mathematics in the Sciences\\
 March 17 - 21, Leipzig
 * [Joint Math Meetings 2025](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_intro){:target="_blank"}\\
