@@ -3,12 +3,12 @@
   &nbsp; &nbsp; [Session on Advances in Applied Algebra and Algebraic Statistics at the AWM Resarch Symposium](https://awm-math.org/meetings/awm-research-symposium/){:target="_blank"}, May 2025\\
   &nbsp; &nbsp; [Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/home?authuser=0){:target="_blank"}, March 27, 2025
 * The Squared Grassmannian\\
-  &nbsp; &nbsp; [University of Wisconsin Applied Algebra Seminar](https://wiki.math.wisc.edu/index.php/Applied_Algebra_Seminar_Spring_2025#Spring_2025_Schedule){:target="_blank"}, May 15, 2025  
-* Polyhedral Geometry\\
-  &nbsp; &nbsp; [Tropical Geometry Reading Group](https://lizziepratt.com/seminar/){:target="_blank"}, February 11, 2025
+  &nbsp; &nbsp; [University of Wisconsin Applied Algebra Seminar](https://wiki.math.wisc.edu/index.php/Applied_Algebra_Seminar_Spring_2025#Spring_2025_Schedule){:target="_blank"}, May 15, 2025
 
 
 # Past Talks
+* Polyhedral Geometry and Gröbner Bases\\
+  &nbsp; &nbsp; [Tropical Geometry Reading Group](https://lizziepratt.com/seminar/){:target="_blank"}, February 11, 2025
 * The Squared Grassmannian [[slides]](slides/UW_Combinatorics_25.pdf){:target="_blank"}\\
   &nbsp; &nbsp; [University of Washington Combinatorics and Geometry Seminar](https://math.washington.edu/events/2025-01-15/squared-grassmannian){:target="_blank"}, January 15, 2025
 * Likelihood Geometry of the Squared Grassmannian [[slides]](slides/jmm_squared_grass.pdf){:target="_blank"}\\

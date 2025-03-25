@@ -7,7 +7,7 @@
 
 
 # Past Talks
-* Polyhedral Geometry and Gr\"{o}bner Bases\\
+* Polyhedral Geometry and Gröbner Bases\\
   &nbsp; &nbsp; [Tropical Geometry Reading Group](https://lizziepratt.com/seminar/){:target="_blank"}, February 11, 2025
 * The Squared Grassmannian [[slides]](slides/UW_Combinatorics_25.pdf){:target="_blank"}\\
   &nbsp; &nbsp; [University of Washington Combinatorics and Geometry Seminar](https://math.washington.edu/events/2025-01-15/squared-grassmannian){:target="_blank"}, January 15, 2025
