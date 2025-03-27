@@ -11,6 +11,8 @@ June 23 - July 4
 June 9 - July 4, Leipzig
 * [Computational Geometric Analysis Workshop](https://www.lehman.edu/faculty/rbettiol/wcga2025/){:target="_blank"}\\
 June 2 - 5, New York City
+* [Workshop on the Applications of Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-applications){:target="_blank"}\\
+May 21-30, Toronto
 
 <h2 style="margin-bottom: 0;">Spring 2025</h2>
 <p style="margin-top: 0;"> UC Berkeley</p>
