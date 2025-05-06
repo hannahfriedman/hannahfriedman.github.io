@@ -1,3 +1,7 @@
+# Preprints
+
+* [Decomposing Conditional Independence Ideals with Hidden Variables](http://arxiv.org/pdf/2505.02404.pdf){:target="_blank"} (with  Yulia Alexandr, Kristen Dawson, Fatemeh Mohammadi, Pardis Semnani, Teresa Yu).
+
 # Accepted for Publication
 
 * [Likelihood Geometry of the Squared Grassmannian](http://arxiv.org/pdf/2409.03730.pdf){:target="_blank"}, to appear in *Proceedings of the American Mathematical Society*.

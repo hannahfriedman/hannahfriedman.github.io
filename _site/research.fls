@@ -1,0 +1,6 @@
+PWD /Users/hfriedman/hannahfriedman.github.io
+INPUT /usr/local/texlive/2023/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT research.md
+OUTPUT research.log

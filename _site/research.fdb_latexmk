@@ -1,0 +1,12 @@
+# Fdb version 4
+["pdflatex"] 1746510952 "research.md" "research.pdf" "research" 1746510958 2
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1680052239 7883458 b90330db8c6b3c8521511cecb4f65593 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "research.aux" 1746510952 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "research.md" 1746510946 1352 d2dff65d9f06b6a35fb83ef092cfb93d ""
+  (generated)
+  "research.aux"
+  "research.log"
+  "research.pdf"
+  (rewritten before read)
