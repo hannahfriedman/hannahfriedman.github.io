@@ -1,5 +1,6 @@
 # Preprints
 
+* [Grassmann and Flag Varieties in Linear Algebra, Optimization, and Statistics: An Algebraic Perspective](https://arxiv.org/pdf/2505.15969){:target="_blank"} (with Serkan Hoşten).
 * [Decomposing Conditional Independence Ideals with Hidden Variables](http://arxiv.org/pdf/2505.02404.pdf){:target="_blank"} (with  Yulia Alexandr, Kristen Dawson, Fatemeh Mohammadi, Pardis Semnani, Teresa Yu).
 
 # Accepted for Publication
