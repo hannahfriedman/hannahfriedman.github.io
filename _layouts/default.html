@@ -15,17 +15,16 @@
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
       <img src="Hannah.png" alt="Hannah" style="height:350px">
-      <h1 class="project-name">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h1 id="title" class="project-name">{{ site.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
-      <a href="./#content" class="btn">Home</a>      
-      <a href="./research#content" class="btn">Research</a>
-      <a href="./talks#content" class="btn">Talks</a>
-      <a href="./activities#content" class="btn">Activities</a>      
-      <a href="./teaching#content" class="btn">Teaching</a>
+      <a href="./" class="btn">Home</a>      
+      <a href="./research#title" class="btn">Research</a>
+      <a href="./talks#title" class="btn">Talks</a>
+      <a href="./activities#title" class="btn">Activities</a>      
+      <a href="./teaching#title" class="btn">Teaching</a>
 
     </header>
     <main id="content" class="main-content" role="main">
@@ -41,33 +40,32 @@
 	</span>
       </footer>
     </main>
-
-<script>
-  function scrollToContent() {
-    var contentElement = document.getElementById('content');
-    if (contentElement) {
-      var offset = contentElement.getBoundingClientRect().top + window.pageYOffset - 20;
-      window.scrollTo({top: offset, behavior: 'smooth'});
-    }
-  }
-  document.addEventListener('DOMContentLoaded', function() {
-    if (performance.navigation.type === performance.navigation.TYPE_NAVIGATE) {
-      scrollToContent();
-    }
-  });
-  // Handle clicks on internal links
-  document.addEventListener('click', function(e) {
-    if (e.target.tagName === 'A' && e.target.hostname === window.location.hostname) {
-      if (!e.target.hasAttribute('data-no-scroll')) {
-        localStorage.setItem('scrollToContent', 'true');
-      }
-    }
-  });
-  // Check if we should scroll on page load
-  if (localStorage.getItem('scrollToContent') === 'true') {
-    scrollToContent();
-    localStorage.removeItem('scrollToContent');
-  }
-</script>
+<!-- <script> -->
+<!--   function scrollToContent() { -->
+<!--     var contentElement = document.getElementById('content'); -->
+<!--     if (contentElement) { -->
+<!--       var offset = contentElement.getBoundingClientRect().top + window.pageYOffset - 20; -->
+<!--       window.scrollTo({top: offset, behavior: 'smooth'}); -->
+<!--     } -->
+<!--   } -->
+<!--   document.addEventListener('DOMContentLoaded', function() { -->
+<!--     if (performance.navigation.type === performance.navigation.TYPE_NAVIGATE) { -->
+<!--       scrollToContent(); -->
+<!--     } -->
+<!--   }); -->
+<!--   // Handle clicks on internal links -->
+<!--   document.addEventListener('click', function(e) { -->
+<!--     if (e.target.tagName === 'A' && e.target.hostname === window.location.hostname) { -->
+<!--       if (!e.target.hasAttribute('data-no-scroll')) { -->
+<!--         localStorage.setItem('scrollToContent', 'true'); -->
+<!--       } -->
+<!--     } -->
+<!--   }); -->
+<!--   // Check if we should scroll on page load -->
+<!--   if (localStorage.getItem('scrollToContent') === 'true') { -->
+<!--     scrollToContent(); -->
+<!--     localStorage.removeItem('scrollToContent'); -->
+<!--   } -->
+<!-- </script> -->
 </body>
 </html>

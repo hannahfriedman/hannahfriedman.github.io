@@ -1,5 +1,7 @@
 ---
 layout: default
+title: home
+show_photo: true
 ---
 
 I am a second year PhD candidate in the Mathematics department at UC Berkeley.
@@ -10,10 +12,3 @@ My research interests are in algebraic statistics, numerical algebraic geometry,
 My CV can be found [here](resumes/current.pdf){:target="_blank"}.
 
 I am grateful for the support of the UC Berkeley Chancellor’s Fellowship. 
-
-
-<!--
- ## Contact
-Email: firstname lastname AT berkeley dot edu\\
-Office: Evans 1060
--->

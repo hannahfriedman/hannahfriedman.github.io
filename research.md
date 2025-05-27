@@ -1,7 +1,8 @@
 # Preprints
 
-* [Grassmann and Flag Varieties in Linear Algebra, Optimization, and Statistics: An Algebraic Perspective](https://arxiv.org/pdf/2505.15969){:target="_blank"} (with Serkan Hoşten).
-* [Decomposing Conditional Independence Ideals with Hidden Variables](http://arxiv.org/pdf/2505.02404.pdf){:target="_blank"} (with  Yulia Alexandr, Kristen Dawson, Fatemeh Mohammadi, Pardis Semnani, Teresa Yu).
+* [Squared Linear Models](https://arxiv.org/pdf/2505.19351){:target="_blank"} (with Bernd Sturmfels and Maximilian Wiesmann), 2025.
+* [Grassmann and Flag Varieties in Linear Algebra, Optimization, and Statistics: An Algebraic Perspective](https://arxiv.org/pdf/2505.15969){:target="_blank"} (with Serkan Hoşten), 2025.
+* [Decomposing Conditional Independence Ideals with Hidden Variables](http://arxiv.org/pdf/2505.02404.pdf){:target="_blank"} (with  Yulia Alexandr, Kristen Dawson, Fatemeh Mohammadi, Pardis Semnani, Teresa Yu), 2025.
 
 # Accepted for Publication
 
