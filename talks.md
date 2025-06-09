@@ -7,7 +7,7 @@
 
 # Past Talks
 * Solving Polynomial Equations\\
- &nbsp; &nbsp; [Problem Solving Workshop: Computation Geometric Analysis](https://www.lehman.edu/faculty/rbettiol/wcga2025/){:target="_blank"}, June 4, 2025
+ &nbsp; &nbsp; [Problem Solving Workshop: Computational Geometric Analysis](https://www.lehman.edu/faculty/rbettiol/wcga2025/){:target="_blank"}, June 4, 2025
 * Likelihood Geometry of the Squared Grassmannian \\
   &nbsp; &nbsp; [Session on Advances in Applied Algebra and Algebraic Statistics at the AWM Resarch Symposium](https://awm-math.org/meetings/awm-research-symposium/){:target="_blank"}, May 16, 2025\\
   &nbsp; &nbsp; [Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/home?authuser=0){:target="_blank"}, March 27, 2025 [[slides]](slides/alg_stat_squared_grass.pdf){:target="_blank"}\\
