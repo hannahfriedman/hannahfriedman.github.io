@@ -1,13 +1,13 @@
 # Upcoming Talks
 * Flag Varieties in Linear Algebra, Optimization, and Statistics: An Algebraic Perspective\\
-&nbsp; &nbsp; [New Frontiers of Geometry and Combinatorics in Machine Learning](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84183) at SIAM AG, July 10, 2025. 
-* Squared Linear Models\\
-&nbsp; &nbsp; [MPI MiS Seminar on Nonlinear Algebra](https://www.mis.mpg.de/events/series/seminar-on-nonlinear-algebra){:target="_blank"}, June 19, 2025.
-* Solving Polynomial Equations\\
- &nbsp; &nbsp; [Problem Solving Workshop: Computation Geometric Analysis](https://www.lehman.edu/faculty/rbettiol/wcga2025/){:target="_blank"}, June 4, 2025
+&nbsp; &nbsp; [New Frontiers of Geometry and Combinatorics in Machine Learning](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84183) at SIAM AG, July 10, 2025.
 
 
 # Past Talks
+* Squared Linear Models\\
+&nbsp; &nbsp; [MPI MiS Seminar on Nonlinear Algebra](https://www.mis.mpg.de/events/series/seminar-on-nonlinear-algebra){:target="_blank"}, June 19, 2025.
+* Solving Polynomial Equations\\
+ &nbsp; &nbsp; [Problem Solving Workshop: Computational Geometric Analysis](https://www.lehman.edu/faculty/rbettiol/wcga2025/){:target="_blank"}, June 4, 2025
 * Likelihood Geometry of the Squared Grassmannian \\
   &nbsp; &nbsp; [Session on Advances in Applied Algebra and Algebraic Statistics at the AWM Resarch Symposium](https://awm-math.org/meetings/awm-research-symposium/){:target="_blank"}, May 16, 2025\\
   &nbsp; &nbsp; [Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/home?authuser=0){:target="_blank"}, March 27, 2025 [[slides]](slides/alg_stat_squared_grass.pdf){:target="_blank"}\\
