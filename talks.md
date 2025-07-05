@@ -5,7 +5,7 @@
 
 # Past Talks
 * Squared Linear Models\\
-&nbsp; &nbsp; [MPI MiS Seminar on Nonlinear Algebra](https://www.mis.mpg.de/events/series/seminar-on-nonlinear-algebra){:target="_blank"}, June 19, 2025.
+&nbsp; &nbsp; [MPI MiS Seminar on Nonlinear Algebra](https://www.mis.mpg.de/events/series/seminar-on-nonlinear-algebra){:target="_blank"}, June 19, 2025
 * Solving Polynomial Equations\\
  &nbsp; &nbsp; [Problem Solving Workshop: Computational Geometric Analysis](https://www.lehman.edu/faculty/rbettiol/wcga2025/){:target="_blank"}, June 4, 2025
 * Likelihood Geometry of the Squared Grassmannian \\
