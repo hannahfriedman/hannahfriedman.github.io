@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1755715328 "current.tex" "current.pdf" "current" 1755715330 0
+["pdflatex"] 1697775138 "fall23.tex" "fall23.pdf" "fall23" 1697775139 0
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136768653 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -28,7 +28,6 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
-  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb" 1136849748 45758 19968a0990191524e34e1994d4a31cb6 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb" 1136849748 44729 811d6c62865936705a31c797a1d5dada ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb" 1136849748 46026 6dab18b61c907687b520c72847215a68 ""
@@ -92,12 +91,12 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1680052299 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1680052239 7883458 b90330db8c6b3c8521511cecb4f65593 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "current.aux" 1755715330 554 04ae3964aa57b78538b565d0454a3de2 "pdflatex"
-  "current.out" 1755715330 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "current.tex" 1755715328 7036 2f0e9266ce14db6bfa0d0a24884f982b ""
+  "fall23.aux" 1697775139 554 04ae3964aa57b78538b565d0454a3de2 "pdflatex"
+  "fall23.out" 1697775139 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "fall23.tex" 1697775136 4744 c21d3825b9a1f60c9531378d6e18c3e0 ""
   (generated)
-  "current.aux"
-  "current.log"
-  "current.out"
-  "current.pdf"
+  "fall23.aux"
+  "fall23.log"
+  "fall23.out"
+  "fall23.pdf"
   (rewritten before read)

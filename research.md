@@ -4,11 +4,9 @@
 * [Grassmann and Flag Varieties in Linear Algebra, Optimization, and Statistics: An Algebraic Perspective](https://arxiv.org/pdf/2505.15969){:target="_blank"} (with Serkan Hoşten), 2025.
 * [Decomposing Conditional Independence Ideals with Hidden Variables](http://arxiv.org/pdf/2505.02404.pdf){:target="_blank"} (with  Yulia Alexandr, Kristen Dawson, Fatemeh Mohammadi, Pardis Semnani, Teresa Yu), 2025.
 
-# Accepted for Publication
-
-* [Likelihood Geometry of the Squared Grassmannian](http://arxiv.org/pdf/2409.03730.pdf){:target="_blank"}, to appear in *Proceedings of the American Mathematical Society*.
-
 # Publications
+
+* [Likelihood Geometry of the Squared Grassmannian](http://arxiv.org/pdf/2409.03730.pdf){:target="_blank"},  *Proceedings of the American Mathematical Society*, **153** (2025) 4463-4474.
 * [The Two Lives of the Grassmannian](https://arxiv.org/pdf/2401.03684.pdf){:target="_blank"} (with Karel Devriendt, Bernhard Reinke, and Bernd Sturmfels), *Acta Universitatis Sapientiae, Mathematica*, **17** (2025) 8.
 * [Likelihood Geometry of Determinantal Point Processes](https://arxiv.org/pdf/2307.13486.pdf){:target="_blank"}
 (with Bernd Sturmfels and Maksym Zubkov), *Algebraic Statistics*, **15** (2024) 15-25.
