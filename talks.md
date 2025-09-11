@@ -1,3 +1,7 @@
+# Upcoming Talks
+* Counting Homogeneous Einstein Metrics\\
+&nbsp; &nbsp; [UC Berkeley Seminar on Commutative Algebra and Algebraic Geometry](https://eisenbud.github.io/deSeminar/Fall2025.html){:target="_blank"}, September 30, 2025.
+
 # Past Talks
 * Grassmann and Flag Varieties in Linear Algebra, Optimization, and Statistics: An Algebraic Perspective [[slides]](slides/siam_ag_25.pdf){:target="_blank"}\\
 &nbsp; &nbsp; [New Frontiers of Geometry and Combinatorics in Machine Learning](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84183) at SIAM AG, July 10, 2025.

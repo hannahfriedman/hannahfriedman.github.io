@@ -1,5 +1,9 @@
 # Teaching
 
+## Fall 2025
+* Analytic Geometry and Calculus (MATH 16B)\\
+&nbsp; &nbsp; *Graduate Student Instructor. Instructor: [Antonio Montalban](https://math.berkeley.edu/~antonio/){:target="_blank"}.*
+
 ## Spring 2025
 * Graduate Commutative Algebra (MATH 250B)\\
 &nbsp; &nbsp; *Graduate Student Instructor. Instructor: [Peter Haine](https://math.berkeley.edu/~phaine/){:target="_blank"}.*
