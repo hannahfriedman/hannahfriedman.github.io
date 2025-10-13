@@ -1,8 +1,9 @@
-# Teaching
+# Teaching and Mentoring
 
 ## Fall 2025
 * Analytic Geometry and Calculus (MATH 16B)\\
 &nbsp; &nbsp; *Graduate Student Instructor. Instructor: [Antonio Montalban](https://math.berkeley.edu/~antonio/){:target="_blank"}.*
+* I am mentoring an undergraduate reading project on polytopes as part of the [directed reading program](https://wp.math.berkeley.edu/drp/){:target="_blank"} at UC Berkeley. 
 
 ## Spring 2025
 * Graduate Commutative Algebra (MATH 250B)\\
@@ -18,8 +19,9 @@
 ## Spring 2024
 * Calculus 1 [(MATH 1A)](https://math.berkeley.edu/courses/overview/lowerdivcourses/math1A){:target="_blank"}\\
 &nbsp; &nbsp; *Graduate Student Instructor. Instructor: [Mina Aganagic](https://physics.berkeley.edu/people/faculty/mina-aganagic){:target="_blank"}.*
+* I mentored an undergraduate reading project on determinantal point processes as part of the [directed reading program](https://wp.math.berkeley.edu/drp/){:target="_blank"} at UC Berkeley.
 
 
-# Mentoring
 
-* Spring 2024: I mentored an undergraduate reading project, as part of the directed reading program (DRP) at Berkeley. The topic was determinantal point processes. 
+
+
