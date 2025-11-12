@@ -1,6 +1,6 @@
 # Past Talks
 * Counting Homogeneous Einstein Metrics [[slides]](slides/SFSU_Oct_2025.pdf){:target="_blank"}\\
-&nbsp; &nbsp; Santa Clara University Mathematics and Computer Science Colloquium, November 11, 2025.
+&nbsp; &nbsp; Santa Clara University Mathematics and Computer Science Colloquium, November 11, 2025.\\
 &nbsp; &nbsp; [San Francisco State University Algebra, Geometry, and Combinatorics Seminar](https://sites.google.com/view/sfsuagc){:target="_blank"}, October 8, 2025.\\
 &nbsp; &nbsp; [UC Berkeley Seminar on Commutative Algebra and Algebraic Geometry](https://eisenbud.github.io/deSeminar/Fall2025.html){:target="_blank"}, September 30, 2025.
 * Grassmann and Flag Varieties in Linear Algebra, Optimization, and Statistics: An Algebraic Perspective [[slides]](slides/siam_ag_25.pdf){:target="_blank"}\\
