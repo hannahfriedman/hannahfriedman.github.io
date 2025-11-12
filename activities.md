@@ -1,5 +1,12 @@
 # Activities
 
+<h2 style="margin-bottom: 0;">Spring 2026</h2>
+<p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
+* [Metric Algebraic Geometry](https://www.mittag-leffler.se/activities/metric-algebraic-geometry/){:target="_blank"}\\
+June 22-26, Institut Mittag-Leffler
+* [Combinatorial Coworkspace](https://www.combinatorial-cowork.space){:target="_blank"}\\
+March 20-28, Kleinwalsertal
+
 
 <h2 style="margin-bottom: 0;">Summer 2025</h2>
 <p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
