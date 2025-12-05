@@ -6,12 +6,11 @@
 
 
 # Accepted for Publication
-* [Decomposing Conditional Independence Ideals with Hidden Variables](http://arxiv.org/pdf/2505.02404.pdf){:target="_blank"} (with  Yulia Alexandr, Kristen Dawson, Fatemeh Mohammadi, Pardis Semnani, Teresa Yu), to appear in *Advances in Applied Mathematics*, 2025.
 * [Squared Linear Models](https://arxiv.org/pdf/2505.19351){:target="_blank"} (with Bernd Sturmfels and Maximilian Wiesmann), to appear in *SIAM Journal on Applied Algebra and Geometry*, 2025.
 
 
 # Publications
-
+* [Decomposing Conditional Independence Ideals with Hidden Variables](http://arxiv.org/pdf/2505.02404.pdf){:target="_blank"} (with  Yulia Alexandr, Kristen Dawson, Fatemeh Mohammadi, Pardis Semnani, Teresa Yu), *Advances in Applied Mathematics*, **174** (2026) 103003.
 * [Likelihood Geometry of the Squared Grassmannian](http://arxiv.org/pdf/2409.03730.pdf){:target="_blank"},  *Proceedings of the American Mathematical Society*, **153** (2025) 4463-4474.
 * [The Two Lives of the Grassmannian](https://arxiv.org/pdf/2401.03684.pdf){:target="_blank"} (with Karel Devriendt, Bernhard Reinke, and Bernd Sturmfels), *Acta Universitatis Sapientiae, Mathematica*, **17** (2025) 8.
 * [Likelihood Geometry of Determinantal Point Processes](https://arxiv.org/pdf/2307.13486.pdf){:target="_blank"}
