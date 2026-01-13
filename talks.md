@@ -1,3 +1,7 @@
+# Upcoming Talks
+* Metric Algebraic Geometry of Grassmannians\\
+&nbsp; &nbsp; [University of Copenhagen Applied Algebra and Geometry Seminar](https://www.math.ku.dk/english/calendar/events/aag-seminar-hannah-friedman/){:target="_blank"}, January 14, 2026.
+
 # Past Talks
 * Counting Homogeneous Einstein Metrics [[slides]](slides/SFSU_Oct_2025.pdf){:target="_blank"}\\
 &nbsp; &nbsp; Santa Clara University Mathematics and Computer Science Colloquium, November 11, 2025.\\
