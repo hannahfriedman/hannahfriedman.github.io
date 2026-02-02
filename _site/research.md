@@ -1,4 +1,5 @@
 # Preprints
+* [Optimization in the Grassmannian of Lines](https://arxiv.org/pdf/2601.22843){:target="_blank"} (with Andrea Rosana and Bernd Sturmfels), 2026. 
 * [Numerical Algebraic Geometry for Energy Computations on Tensor Train Varieties](https://arxiv.org/pdf/2512.06939){:target="_blank"} (with Viktoriia Borovik, Serkan Hoşten, and Max Pfeffer), 2025. 
 * [Counting Homogeneous Einstein Metrics](https://arxiv.org/pdf/2509.09830){:target="_blank"} (with Renato G. Bettiol), 2025. 
 * [Homotopy Iterators](https://arxiv.org/abs/2509.08084){:target="_blank"} (with Paul Breiding and Taylor Brysiewicz), 2025. 
