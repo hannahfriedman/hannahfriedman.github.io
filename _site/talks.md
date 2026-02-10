@@ -1,3 +1,7 @@
+# Upcoming Talks
+* Counting Homogeneous Einstein Metrics\\
+&nbsp; &nbsp; [Math Seminar at CSBD](https://maximilianwiesmann.github.io/seminar/){:target="_blank"}, February 26, 2026.
+
 # Past Talks
 * Metric Algebraic Geometry of Grassmannians\\
 &nbsp; &nbsp; [University of Copenhagen Applied Algebra and Geometry Seminar](https://www.math.ku.dk/english/calendar/events/aag-seminar-hannah-friedman/){:target="_blank"}, January 14, 2026.
