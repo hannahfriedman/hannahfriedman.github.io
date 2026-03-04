@@ -1,11 +1,18 @@
 # Activities
 
+<h2 style="margin-bottom: 0;">Summer 2026</h2>
+<p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
+* [MEGA 2026](https://maths.dur.ac.uk/mega2026/){:target="_blank"}\\
+July 6--10, Durham University
+* [Metric Algebraic Geometry](https://www.mittag-leffler.se/activities/metric-algebraic-geometry/){:target="_blank"}\\
+June 22--26, Institut Mittag-Leffler
+
 <h2 style="margin-bottom: 0;">Spring 2026</h2>
 <p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
-* [Metric Algebraic Geometry](https://www.mittag-leffler.se/activities/metric-algebraic-geometry/){:target="_blank"}\\
-June 22-26, Institut Mittag-Leffler
+* Co-organizing the workshop [_Metric Algebraic Geometry: Starting Local_](https://www.mis.mpg.de/events/series/workshop-metric-algebraic-geometry-starting-local){:target="_blank"}\\
+April 14--15, Max Planck Institute for Mathematics in the Sciences
 * [Combinatorial Coworkspace](https://www.combinatorial-cowork.space){:target="_blank"}\\
-March 20-28, Kleinwalsertal
+March 20--28, Kleinwalsertal
 
 
 <h2 style="margin-bottom: 0;">Summer 2025</h2>

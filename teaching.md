@@ -3,7 +3,7 @@
 ## Fall 2025
 * Analytic Geometry and Calculus (MATH 16B)\\
 &nbsp; &nbsp; *Graduate Student Instructor. Instructor: [Antonio Montalban](https://math.berkeley.edu/~antonio/){:target="_blank"}.*
-* I am mentoring an undergraduate reading project on polytopes as part of the [directed reading program](https://wp.math.berkeley.edu/drp/){:target="_blank"} at UC Berkeley. 
+* I mentored an undergraduate reading project on polytopes as part of the [directed reading program](https://wp.math.berkeley.edu/drp/){:target="_blank"} at UC Berkeley. 
 
 ## Spring 2025
 * Graduate Commutative Algebra (MATH 250B)\\
