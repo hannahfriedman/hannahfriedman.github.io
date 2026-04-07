@@ -5,7 +5,7 @@ show_photo: true
 ---
 
 # About Me
-In the 26--27 academic year, I will be an Institute Postdoctoral Fellow at the Institute for Computational and Research Mathematics in connection with the Spring 2027 program [_Metric Algebraic Geometry: Going Global_](https://icerm.brown.edu/program/semester_program/sp-s27).
+In the 26--27 academic year, I will be an Institute Postdoctoral Fellow at the Institute for Computational and Experimental Research in Mathematics in connection with the Spring 2027 program [_Metric Algebraic Geometry: Going Global_](https://icerm.brown.edu/program/semester_program/sp-s27).
 
 I am currently a PhD candidate in the Mathematics department at UC Berkeley and will graduate in May 2026.
 My advisors are [Bernd Sturmfels](https://math.berkeley.edu/~bernd/){:target="_blank"} and [Serkan Hoşten](https://sites.google.com/view/serkanhostensfsu/home?authuser=0){:target="_blank"}.
