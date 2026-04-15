@@ -2,10 +2,10 @@
 * Metric Algebraic Geometry of the Grassmannian of Lines\\
 &nbsp; &nbsp; [Oberseminar at Universität Magdeburg](https://math.ovgu.de/Institute/IAG/Oberseminar.html){:target="_blank"}, April 28, 2026.\\
 &nbsp; &nbsp; [Algebra Seminar at Universität Osnabrück](https://www.uni-osnabrueck.de/fb6/mathematik/aktuelles/oberseminare/algebra/sommersemester-2025-1){:target="_blank"}, April 22, 2026.
-* Distance Optimization\\
-&nbsp; &nbsp; [Metric Algebraic Geometry: Starting Local](https://www.mis.mpg.de/events/series/workshop-metric-algebraic-geometry-starting-local){:target="_blank"}, April 15, 2026.
 
 # Past Talks
+* Distance Optimization [[slides]](slides/MAG_April_2026.pdf){:target="_blank"}\\
+&nbsp; &nbsp; [Metric Algebraic Geometry: Starting Local](https://www.mis.mpg.de/events/series/workshop-metric-algebraic-geometry-starting-local){:target="_blank"}, April 15, 2026.
 * Counting Homogeneous Einstein Metrics [[slides]](slides/SFSU_Oct_2025.pdf){:target="_blank"}\\
 &nbsp; &nbsp; [Combinatorial Coworkspace](https://www.combinatorial-cowork.space), March 27, 2026.\\
 &nbsp; &nbsp; [Math Seminar at CSBD](https://maximilianwiesmann.github.io/seminar/){:target="_blank"}, February 26, 2026.\\
