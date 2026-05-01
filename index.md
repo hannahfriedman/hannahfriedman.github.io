@@ -5,7 +5,7 @@ show_photo: true
 ---
 
 # About Me
-In the 26--27 academic year, I will be an Institute Postdoctoral Fellow at the Institute for Computational and Experimental Research in Mathematics in connection with the Spring 2027 program [_Metric Algebraic Geometry: Going Global_](https://icerm.brown.edu/program/semester_program/sp-s27).
+
 
 I am currently a PhD candidate in the Mathematics department at UC Berkeley and will graduate in May 2026.
 My advisors are [Bernd Sturmfels](https://math.berkeley.edu/~bernd/){:target="_blank"} and [Serkan Hoşten](https://sites.google.com/view/serkanhostensfsu/home?authuser=0){:target="_blank"}.
@@ -14,14 +14,9 @@ In my dissertation, _Metric Algebraic Geometry of Grassmannians_, I study optimi
 I received my B.S. from Harvey Mudd College with High Distinction and Honors in Mathematics.
 My undergraduate thesis was advised by [Michael Orrison](https://www.hmc.edu/mathematics/people/faculty/orrison/){:target="_blank"} and is titled [“Long Increasing Subsequences.”](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1274&context=hmc_theses){:target="_blank"}
 
-
-
-# News
 I am visiting the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany for Spring and Summer 2026.
 
-With Andrea Rosana and Bernd Sturmfels, I am co-organizing the workshop [_Metric Algebraic Geometry: Starting Local_](https://www.mis.mpg.de/events/series/workshop-metric-algebraic-geometry-starting-local){:target="_blank"} in April 2026.
-Please email me if you are interested in attending. 
-
+In the 26--27 academic year, I will be an Institute Postdoctoral Fellow at the Institute for Computational and Experimental Research in Mathematics in connection with the Spring 2027 program [_Metric Algebraic Geometry: Going Global_](https://icerm.brown.edu/program/semester_program/sp-s27).
 
 
 
