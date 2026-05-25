@@ -18,6 +18,7 @@
 * [An Interpretable Joint Nonnegative Matrix Factorization-Based Point Cloud Distance Measure](https://arxiv.org/pdf/2207.05112.pdf){:target="_blank"} (with Amani R. Maina-Kilaas, Julianna Schalkwyk, Hina Ahmed, and Jamie Haddock), *Conference on Information Sciences and Systems 2023*.
 
 
-<!---
+# Theses
+* [Metric Algebraic Geometry of Grassmannians](metric_algebraic_geometry_of_grassmannians.pdf){:target="_blank"} (advised by Bernd Sturmfels and Serkan Hoşten), Ph.D. Dissertation, 2026.
 * [Long Increasing Subsequences](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1274&context=hmc_theses){:target="_blank"} (advised by Michael Orrison) Undergraduate Thesis, 2023.
--->
+
