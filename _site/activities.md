@@ -2,6 +2,10 @@
 
 <h2 style="margin-bottom: 0;">Summer 2026</h2>
 <p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
+* Geometric Methods in Optimization and Numerical Analysis\\
+July 19--24, Mathematisches Forschungsinstitut Oberwolfach
+* Research Visit\\
+July 13--17, Academy of Mathematics and Systems Science, Chinese Acadamy of Science
 * [MEGA 2026](https://maths.dur.ac.uk/mega2026/){:target="_blank"}\\
 July 6--10, Durham University
 * [Metric Algebraic Geometry](https://www.mittag-leffler.se/activities/metric-algebraic-geometry/){:target="_blank"}\\
