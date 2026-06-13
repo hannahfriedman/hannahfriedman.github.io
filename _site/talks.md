@@ -1,3 +1,4 @@
+
 # Past Talks
 * Metric Algebraic Geometry of the Grassmannian of Lines [[slides]](slides/Magdeburg_2026.pdf){:target="_blank"}\\
 &nbsp; &nbsp; [Oberseminar at Universität Magdeburg](https://math.ovgu.de/Institute/IAG/Oberseminar.html){:target="_blank"}, April 28, 2026.\\

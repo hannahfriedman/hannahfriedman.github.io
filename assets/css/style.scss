@@ -1,10 +1,15 @@
 ---
 ---
 
+$header-bg-color: #D4AF77; // #ff7e5f; // The top-left color
+$header-bg-color-secondary: #345431;           // The bottom-right color
+$section-headings-color: #1F731C;
+$body-link-color: #825509;
+
 @import "{{ site.theme }}";
 
 .header-color {
-  color: #159957; // This is the default Cayman header color
+  color: #2A533E; //#159960; // This is the default Cayman header color
 }
 
 
