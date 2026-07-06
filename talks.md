@@ -1,7 +1,6 @@
-# Upcoming Talks
-* Numerical Algebraic Geometry for Energy Computations on Tensor Train Varieties\\
-&nbsp; &nbsp; [Effective Methods in Algebraic Geometry](https://maths.dur.ac.uk/mega2026/){:target="_blank"}, July 6, 2026.
 # Past Talks
+* Numerical Algebraic Geometry for Energy Computations on Tensor Train Varieties [[slides]](slides/MEGA2026.pdf)\\
+&nbsp; &nbsp; [Effective Methods in Algebraic Geometry](https://maths.dur.ac.uk/mega2026/){:target="_blank"}, July 6, 2026.
 * The ML Degree of the Grassmannian [[slides]](slides/ML-Degree-Grassmannian.pdf)\\
 &nbsp; &nbsp; [Metric Algebraic Geometry](https://www.mittag-leffler.se/activities/metric-algebraic-geometry/#program){:target="_blank"} at Institute Mittag-Leffler, June 25, 2026.
 * Metric Algebraic Geometry of the Grassmannian of Lines [[slides]](slides/Magdeburg_2026.pdf){:target="_blank"}\\
