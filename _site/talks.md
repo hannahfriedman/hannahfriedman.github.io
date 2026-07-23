@@ -1,11 +1,14 @@
 # Past Talks
+* Maximum Likelihood Estimation for Statistical Models on the Grassmannain\\
+&nbsp; &nbsp; [Geometric Methods in Optimization and Numerical Analysis](https://www.mfo.de/www/activity/2630){:target="_blank"}, Oberwolfach, July 21, 2026.
+* Metric Algebraic Geometry of the Grassmannian of Lines [[slides]](slides/Magdeburg_2026.pdf){:target="_blank"}\\
+&nbsp; &nbsp; Academy of Mathematics and Systems Science, Chinese Academy of Sciences, July 15, 2026. \\
+&nbsp; &nbsp; [Oberseminar at Universität Magdeburg](https://math.ovgu.de/Institute/IAG/Oberseminar.html){:target="_blank"}, April 28, 2026.\\
+&nbsp; &nbsp; [Algebra Seminar at Universität Osnabrück](https://www.uni-osnabrueck.de/fb6/mathematik/aktuelles/oberseminare/algebra/sommersemester-2025-1){:target="_blank"}, April 22, 2026.
 * Numerical Algebraic Geometry for Energy Computations on Tensor Train Varieties [[slides]](slides/MEGA2026.pdf)\\
 &nbsp; &nbsp; [Effective Methods in Algebraic Geometry](https://maths.dur.ac.uk/mega2026/){:target="_blank"}, July 6, 2026.
 * The ML Degree of the Grassmannian [[slides]](slides/ML-Degree-Grassmannian.pdf)\\
 &nbsp; &nbsp; [Metric Algebraic Geometry](https://www.mittag-leffler.se/activities/metric-algebraic-geometry/#program){:target="_blank"} at Institute Mittag-Leffler, June 25, 2026.
-* Metric Algebraic Geometry of the Grassmannian of Lines [[slides]](slides/Magdeburg_2026.pdf){:target="_blank"}\\
-&nbsp; &nbsp; [Oberseminar at Universität Magdeburg](https://math.ovgu.de/Institute/IAG/Oberseminar.html){:target="_blank"}, April 28, 2026.\\
-&nbsp; &nbsp; [Algebra Seminar at Universität Osnabrück](https://www.uni-osnabrueck.de/fb6/mathematik/aktuelles/oberseminare/algebra/sommersemester-2025-1){:target="_blank"}, April 22, 2026.
 * Distance Optimization [[slides]](slides/MAG_April_2026.pdf){:target="_blank"}\\
 &nbsp; &nbsp; [Metric Algebraic Geometry: Starting Local](https://www.mis.mpg.de/events/series/workshop-metric-algebraic-geometry-starting-local){:target="_blank"}, April 15, 2026.
 * Counting Homogeneous Einstein Metrics [[slides]](slides/SFSU_Oct_2025.pdf){:target="_blank"}\\

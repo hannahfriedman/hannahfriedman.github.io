@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1781383257.70022 "current.tex" "current.pdf" "current" 1781383258.04235 0
+["pdflatex"] 1784794027.0364 "current.tex" "current.pdf" "current" 1784794027.38548 0
   "/usr/local/texlive/2026/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm" 1136768653 1292 bd42be2f344128bff6d35d98474adfe3 ""
@@ -87,9 +87,9 @@
   "/usr/local/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1777807577 5573038 b99aad5e4898a9034e953632f940512b ""
   "/usr/local/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1777808082 3636775 25488a09a364ef59c09b2be025b06707 ""
   "/usr/local/texlive/2026/texmf.cnf" 1774209515 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
-  "current.aux" 1781383258.01898 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "current.out" 1781383257.90843 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "current.tex" 1781383256.01233 8652 cdc1e98f17d21e76ceb06e7465ca42fc ""
+  "current.aux" 1784794027.36184 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
+  "current.out" 1784794027.24777 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "current.tex" 1784794026.28296 8950 c8ad7ff88763a2d45eca5c58187b20d2 ""
   (generated)
   "current.aux"
   "current.log"
