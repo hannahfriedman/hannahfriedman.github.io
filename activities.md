@@ -1,13 +1,35 @@
 # Activities
+<h2 style="margin-bottom: 0;">Spring 2027</h2>
+<p style="margin-top: 0;">Institute for Computational and Experimental Research in Mathematics</p>
+* [Numerical Algebraic Geometry](https://www.ipam.ucla.edu/programs/workshops/workshop-i-numerical-algebraic-geometry/?tab=overview){:target="_blank"}\\
+March 30--April 2, Institute for Pure and Applied Mathematics
+
+* [Joint Math Meetings 2027](https://jointmathematicsmeetings.org/jmm){:target="_blank"}\\
+January 12--15, Chicago
+
+
+
+<h2 style="margin-bottom: 0;">Fall 2026</h2>
+<p style="margin-top: 0;">Institute for Computational and Experimental Research in Mathematics</p>
+* Research Visit to Georiga Institue of Technology\\
+October 12--14, Atlanta
+
+* [2026 Fall Southeastern Sectional Meeting of the AMS](https://www.ams.org/meetings/sectional/fall2026se){:target="_blank"}\\
+October 10--11, Kennesaw State University
+
+
 
 <h2 style="margin-bottom: 0;">Summer 2026</h2>
 <p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
 * Geometric Methods in Optimization and Numerical Analysis\\
 July 19--24, Mathematisches Forschungsinstitut Oberwolfach
+
 * Research Visit\\
 July 13--17, Academy of Mathematics and Systems Science, Chinese Acadamy of Science
+
 * [MEGA 2026](https://maths.dur.ac.uk/mega2026/){:target="_blank"}\\
 July 6--10, Durham University
+
 * [Metric Algebraic Geometry](https://www.mittag-leffler.se/activities/metric-algebraic-geometry/){:target="_blank"}\\
 June 22--26, Institut Mittag-Leffler
 
@@ -15,6 +37,7 @@ June 22--26, Institut Mittag-Leffler
 <p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
 * Co-organizing the workshop [_Metric Algebraic Geometry: Starting Local_](https://www.mis.mpg.de/events/series/workshop-metric-algebraic-geometry-starting-local){:target="_blank"}\\
 April 14--15, Max Planck Institute for Mathematics in the Sciences
+
 * [Combinatorial Coworkspace](https://www.combinatorial-cowork.space){:target="_blank"}\\
 March 20--28, Kleinwalsertal
 
@@ -23,12 +46,16 @@ March 20--28, Kleinwalsertal
 <p style="margin-top: 0;">Max Planck Institute for Mathematics in the Sciences (Leipzig, Germany)</p>
 * [SIAM Conference on Applied Algebraic Geometry](https://www.siam.org/conferences-events/siam-conferences/ag25/){:target="_blank"}\\
 July 7 - 11, Madison
+
 * [SLMath Summer School: New perspectives on discriminants and their applications](https://www.mis.mpg.de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"}\\
 June 23 - July 4
+
 * Visit to the Max Planck Institute for Mathematics in the Sciences\\
 June 9 - July 4, Leipzig
+
 * [Computational Geometric Analysis Workshop](https://www.lehman.edu/faculty/rbettiol/wcga2025/){:target="_blank"}\\
 June 2 - 5, New York City
+
 * [Workshop on the Applications of Commutative Algebra](http://www.fields.utoronto.ca/activities/24-25/commutative-algebra-applications){:target="_blank"}\\
 May 21-30, Toronto
 
@@ -36,14 +63,19 @@ May 21-30, Toronto
 <p style="margin-top: 0;"> UC Berkeley</p>
 * [AWM Research Symposium 2025](https://awm-math.org/meetings/awm-research-symposium/){:target="_blank"}\\
 May 16 - 18, Madison
+
 * Visit to the University of Madison, Wisconsin\\
 May 15 - 18, Madison
+
 * [Algebraic Statistics 2025](https://sites.google.com/view/algstat2025/home?authuser=0){:target="_blank"}\\
 March 24 - 28, Technical University of Munich
+
 * [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east){:target="_blank"}\\
 March 19-21, Leipzig
+
 * Visit to the Max Planck Institute for Mathematics in the Sciences\\
 March 17 - 21, Leipzig
+
 * [Joint Math Meetings 2025](https://jointmathematicsmeetings.org/meetings/national/jmm2025/2314_intro){:target="_blank"}\\
 January 8-11, Seattle
 
@@ -51,6 +83,7 @@ January 8-11, Seattle
 <p style="margin-top: 0;">UC Berkeley</p>
 * Organized a one-time [Nonlinear Algebra Seminar](nas.md)\\
 December 12, 1:10 - 5 pm, Evans 740, UC Berkeley
+
 * Qualifying Exam ([syllabus](syllabus.pdf){:target="_blank"})\\
 December 2, UC Berkeley
 

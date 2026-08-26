@@ -1,3 +1,7 @@
+# Upcoming Talks
+* Maximum Likelihood Estimation for Statistical Models on the Grassmannain\\
+&nbsp; &nbsp; [2026 Fall Southeastern Sectional Meeting of the AMS](https://www.ams.org/meetings/sectional/fall2026se){:target="_blank"}
+
 # Past Talks
 * Maximum Likelihood Estimation for Statistical Models on the Grassmannain\\
 &nbsp; &nbsp; [Geometric Methods in Optimization and Numerical Analysis](https://www.mfo.de/www/activity/2630){:target="_blank"}, Oberwolfach, July 21, 2026.
@@ -37,12 +41,6 @@
   &nbsp; &nbsp; [Tropical Geometry Reading Group](https://lizziepratt.com/seminar/){:target="_blank"}, February 11, 2025
 * The Squared Grassmannian [[slides]](slides/UW_Combinatorics_25.pdf){:target="_blank"}\\
   &nbsp; &nbsp; [University of Washington Combinatorics and Geometry Seminar](https://math.washington.edu/events/2025-01-15/squared-grassmannian){:target="_blank"}, January 15, 2025
-* What is Algebraic Statistics?\\
-  &nbsp; &nbsp; [Bay Area Discrete Math Day](https://sites.google.com/berkeley.edu/bad-math-day-fall-2024/){:target="_blank"}, UC Berkeley, December 7, 2024
-* Tensors and Phylogenetics\\
-  &nbsp; &nbsp; [Tensors Reading Group](https://math.berkeley.edu/~svala/tensorseminar.html){:target="_blank"}, UC Berkeley, November 19, 2024
-* Representation Theory for Spaces of Tensors\\
-  &nbsp; &nbsp; [Tensors Reading Group](https://math.berkeley.edu/~svala/tensorseminar.html){:target="_blank"}, UC Berkeley, October 22, 2024
 * Optimization over Two Embeddings of the Grassmannian [[slides]](slides/codex.pdf){:target="_blank"}\\
   &nbsp; &nbsp; [Codex Seminar](https://www.math.colostate.edu/~king/codex/){:target="_blank"}, July 2, 2024
 * Likelihood Geometry of Determinantal Point Processes [[slides]](slides/likelihood-geometry-of-dpp.pdf){:target="_blank"}\\
