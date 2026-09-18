@@ -1,8 +1,16 @@
 # Upcoming Talks
-* Maximum Likelihood Estimation for Statistical Models on the Grassmannain\\
-&nbsp; &nbsp; [2026 Fall Southeastern Sectional Meeting of the AMS](https://www.ams.org/meetings/sectional/fall2026se){:target="_blank"}
+* How to Solve a Polynomial System\\
+&nbsp; &nbsp; Brown University Theorems and Tales Seminar, October 29, 2026.
+* Euclidean Distance Optimization Within the Grassmannian\\
+&nbsp; &nbsp; Georgia Tech Algebra Seminar, October 12, 2026.
+* Maximum Likelihood Estimation for Statistical Models on the Grassmannian\\
+&nbsp; &nbsp; [2026 Fall Southeastern Sectional Meeting of the AMS](https://www.ams.org/meetings/sectional/fall2026se){:target="_blank"}, October 10, 2026.\\
+&nbsp; &nbsp; University of Missouri Math and Data Seminar, October 6, 2026.
 
 # Past Talks
+* Squared Linear Models\\
+&nbsp; &nbsp; [Brown University Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home){:target="_blank"}, September 14, 2026.\\
+&nbsp; &nbsp; [MPI MiS Seminar on Nonlinear Algebra](https://www.mis.mpg.de/events/series/seminar-on-nonlinear-algebra){:target="_blank"}, June 19, 2025
 * Maximum Likelihood Estimation for Statistical Models on the Grassmannain\\
 &nbsp; &nbsp; [Geometric Methods in Optimization and Numerical Analysis](https://www.mfo.de/www/activity/2630){:target="_blank"}, Oberwolfach, July 21, 2026.
 * Metric Algebraic Geometry of the Grassmannian of Lines [[slides]](slides/Magdeburg_2026.pdf){:target="_blank"}\\
@@ -25,8 +33,6 @@
 &nbsp; &nbsp; [University of Copenhagen Applied Algebra and Geometry Seminar](https://www.math.ku.dk/english/calendar/events/aag-seminar-hannah-friedman/){:target="_blank"}, January 14, 2026.
 * Grassmann and Flag Varieties in Linear Algebra, Optimization, and Statistics: An Algebraic Perspective [[slides]](slides/siam_ag_25.pdf){:target="_blank"}\\
 &nbsp; &nbsp; [New Frontiers of Geometry and Combinatorics in Machine Learning](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=84183) at SIAM AG, July 10, 2025.
-* Squared Linear Models\\
-&nbsp; &nbsp; [MPI MiS Seminar on Nonlinear Algebra](https://www.mis.mpg.de/events/series/seminar-on-nonlinear-algebra){:target="_blank"}, June 19, 2025
 * Solving Polynomial Equations\\
  &nbsp; &nbsp; [Problem Solving Workshop: Computational Geometric Analysis](https://www.lehman.edu/faculty/rbettiol/wcga2025/){:target="_blank"}, June 4, 2025
 * Likelihood Geometry of the Squared Grassmannian \\
@@ -37,8 +43,9 @@
   &nbsp; &nbsp; [Workshop for Women in Algebraic Statistics](https://sites.google.com/view/women-in-algstat-oxford/){:target="_blank"} at St John's College, University of Oxford, July 15, 2024
 * Likelihood Geometry of Determinantal Point Processes\\
   &nbsp; &nbsp; [University of Wisconsin Applied Algebra Seminar](https://wiki.math.wisc.edu/index.php/Applied_Algebra_Seminar_Spring_2025#Spring_2025_Schedule){:target="_blank"}, May 15, 2025
-* Polyhedral Geometry and Gröbner Bases\\
+<!-- * Polyhedral Geometry and Gröbner Bases\\
   &nbsp; &nbsp; [Tropical Geometry Reading Group](https://lizziepratt.com/seminar/){:target="_blank"}, February 11, 2025
+  -->
 * The Squared Grassmannian [[slides]](slides/UW_Combinatorics_25.pdf){:target="_blank"}\\
   &nbsp; &nbsp; [University of Washington Combinatorics and Geometry Seminar](https://math.washington.edu/events/2025-01-15/squared-grassmannian){:target="_blank"}, January 15, 2025
 * Optimization over Two Embeddings of the Grassmannian [[slides]](slides/codex.pdf){:target="_blank"}\\

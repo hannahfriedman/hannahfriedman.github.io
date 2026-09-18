@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.3)  23 JUL 2026 10:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.5.3)  9 SEP 2026 09:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -188,6 +188,24 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutvoffset=\dimen160
 \Gm@dimlist=\toks19
 )
+(/usr/local/texlive/2026/texmf-dist/tex/latex/etaremune/etaremune.sty
+Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2026/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+\XKV@tempb@toks=\toks22
+)
+\XKV@depth=\count298
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@EM@itemctr=\count299
+\c@EM@etaremunectr=\count300
+)
 (/usr/local/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
 )
@@ -198,10 +216,10 @@ Package: times 2020/03/25 PSNFSS-v9.3 (SPQR)
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip52
 \enit@outerparindent=\dimen161
-\enit@toks=\toks20
+\enit@toks=\toks23
 \enit@inbox=\box53
-\enit@count@id=\count298
-\enitdp@description=\count299
+\enit@count@id=\count301
+\enitdp@description=\count302
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
@@ -228,7 +246,7 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 (/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 24
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 25
 .
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/t1ptm.fd
@@ -236,30 +254,30 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count300
+\l__color_backend_stack_int=\count303
 )
 (./current.aux)
 \openout1 = `current.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-Package hyperref Info: Link coloring OFF on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+Package hyperref Info: Link coloring OFF on input line 25.
  (./current.out) (./current.out)
 \@outlinefile=\write3
 \openout3 = `current.out'.
@@ -301,30 +319,30 @@ Package hyperref Info: Link coloring OFF on input line 24.
 
 (/usr/local/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
+\scratchcounter=\count304
 \scratchdimen=\dimen162
 \scratchbox=\box54
-\nofMPsegments=\count302
-\nofMParguments=\count303
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count304
+\nofMPsegments=\count305
+\nofMParguments=\count306
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count307
 \MPscratchDim=\dimen163
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
-\everyMPtoPDFconversion=\toks22
+\MPnumerator=\count308
+\makeMPintoPDFobject=\count309
+\everyMPtoPDFconversion=\toks25
 )
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 29
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 30
 .
  (/usr/local/texlive/2026/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
 
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
 
 
 (/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -342,20 +360,20 @@ Package rerunfilecheck Info: File `current.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9849 strings out of 467525
- 151282 string characters out of 5418983
- 585589 words of memory out of 5000000
- 38651 multiletter control sequences out of 15000+600000
+ 10137 strings out of 467525
+ 156349 string characters out of 5418983
+ 590499 words of memory out of 5000000
+ 38925 multiletter control sequences out of 15000+600000
  644935 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,84p,254b,554s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,84p,254b,572s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
 </usr/local/texlive/2026/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/lo
 cal/texlive/2026/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texliv
 e/2026/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2026/tex
 mf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on current.pdf (3 pages, 81969 bytes).
+Output written on current.pdf (3 pages, 84742 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  35 compressed objects within 1 object stream
