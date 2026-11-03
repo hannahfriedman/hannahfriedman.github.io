@@ -1,4 +1,4 @@
-# Upcoming Talks
+# Past Talks
 * How to Solve a Polynomial System\\
 &nbsp; &nbsp; Brown University Theorems and Tales Seminar, October 29, 2026.
 * Euclidean Distance Optimization Within the Grassmannian\\
@@ -6,8 +6,6 @@
 * Maximum Likelihood Estimation for Statistical Models on the Grassmannian\\
 &nbsp; &nbsp; [2026 Fall Southeastern Sectional Meeting of the AMS](https://www.ams.org/meetings/sectional/fall2026se){:target="_blank"}, October 10, 2026.\\
 &nbsp; &nbsp; University of Missouri Math and Data Seminar, October 6, 2026.
-
-# Past Talks
 * Squared Linear Models\\
 &nbsp; &nbsp; [Brown University Combinatorics Seminar](https://sites.google.com/brown.edu/combo/home){:target="_blank"}, September 14, 2026.\\
 &nbsp; &nbsp; [MPI MiS Seminar on Nonlinear Algebra](https://www.mis.mpg.de/events/series/seminar-on-nonlinear-algebra){:target="_blank"}, June 19, 2025

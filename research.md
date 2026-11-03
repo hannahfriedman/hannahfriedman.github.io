@@ -1,10 +1,13 @@
 # Preprints
 * [Euclidean Distance Optimization Within the Grassmannian](https://arxiv.org/pdf/2610.02018){:target="_blank"} (with Serkan Hoşten and Andrea Rosana), 2026.
 * [Maximum Likelihood Estimation on the Grassmannian of Lines](https://arxiv.org/pdf/2607.19593){:target="_blank"}, 2026.
-* [Optimization in the Grassmannian of Lines](https://arxiv.org/pdf/2601.22843){:target="_blank"} (with Andrea Rosana and Bernd Sturmfels), 2026. 
 * [Numerical Algebraic Geometry for Energy Computations on Tensor Train Varieties](https://arxiv.org/pdf/2512.06939){:target="_blank"} (with Viktoriia Borovik, Serkan Hoşten, and Max Pfeffer), 2025. 
 * [Counting Homogeneous Einstein Metrics](https://arxiv.org/pdf/2509.09830){:target="_blank"} (with Renato G. Bettiol), 2025. 
 * [Homotopy Iterators](https://arxiv.org/abs/2509.08084){:target="_blank"} (with Paul Breiding and Taylor Brysiewicz), 2025.
+
+
+# Accepted for Publication
+* [Optimization in the Grassmannian of Lines](https://arxiv.org/pdf/2601.22843){:target="_blank"} (with Andrea Rosana and Bernd Sturmfels), to appear in *Mathematics of Computation*, 2026. 
 
 # Publications
 * [Grassmann and Flag Varieties in Linear Algebra, Optimization, and Statistics: An Algebraic Perspective](https://arxiv.org/pdf/2505.15969){:target="_blank"} (with Serkan Hoşten), *Advances in Applied Mathematics*, **180** (2026) 103130.
